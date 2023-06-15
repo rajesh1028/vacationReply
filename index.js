@@ -15,7 +15,6 @@ const SCOPES = [
     'https://mail.google.com/'
 ];  // <- level of access from the users 
 
-// const TOKEN_PATH = 'token.json';
 
 const LABEL_NAME = 'Vacation Replies';
 
